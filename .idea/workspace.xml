@@ -183,7 +183,7 @@
       <workItem from="1579241570519" duration="9727000" />
       <workItem from="1579253263927" duration="289000" />
       <workItem from="1579253580220" duration="4740000" />
-      <workItem from="1579262290600" duration="4495000" />
+      <workItem from="1579262290600" duration="4758000" />
     </task>
     <task id="LOCAL-00001" summary="Just a test">
       <created>1579262908037</created>
@@ -248,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579266621088</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Just a test">
+      <created>1579266842640</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579266842640</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Just a test">
+      <created>1579267015775</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579267015775</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,18 +313,18 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2561" y="128" key="#tomcat/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579230265281" />
-    <state x="2480" y="112" key="CommitChangelistDialog2" timestamp="1579266914216">
+    <state x="2480" y="112" key="CommitChangelistDialog2" timestamp="1579267014727">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2480" y="112" key="CommitChangelistDialog2/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579266914216" />
+    <state x="2480" y="112" key="CommitChangelistDialog2/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579267014727" />
     <state x="2660" y="258" key="FileChooserDialogImpl" timestamp="1579264744145">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="258" key="FileChooserDialogImpl/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579264744145" />
-    <state x="2460" y="651" key="Github.ShareDialog" timestamp="1579266799348">
+    <state x="2460" y="651" key="Github.ShareDialog" timestamp="1579267154485">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2460" y="651" key="Github.ShareDialog/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579266799348" />
+    <state x="2460" y="651" key="Github.ShareDialog/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579267154485" />
     <state x="2496" y="447" key="Github.UntrackedFilesDialog" timestamp="1579262481638">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -395,10 +409,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1219" height="277" key="GridCell.Tab.3.right/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579241256185" />
-    <state x="2029" y="118" key="SettingsEditor" timestamp="1579265987201">
+    <state x="2029" y="118" key="SettingsEditor" timestamp="1579267069207">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2029" y="118" key="SettingsEditor/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579265987201" />
+    <state x="2029" y="118" key="SettingsEditor/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579267069207" />
     <state x="2760" y="434" key="VCS.EditChangelistDialog" timestamp="1579264778606">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
