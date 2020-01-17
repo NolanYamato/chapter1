@@ -6,8 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="150388c6-7cc5-4928-8cb4-bc5e4a268842" name="Default Changelist" comment="Just a test">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/hello2.jsp" afterDir="false" />
+    <list default="true" id="150388c6-7cc5-4928-8cb4-bc5e4a268842" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,14 +62,15 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Xiaoming\IdeaProjects\chapter1\src\main\webapp\WEB-INF\jsp" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Xiaoming\IdeaProjects\chapter1" />
       <recent name="C:\Users\Xiaoming\IdeaProjects\chapter1\src" />
       <recent name="C:\Users\Xiaoming\IdeaProjects\chapter1\src\main\webapp\WEB-INF" />
       <recent name="C:\Users\Xiaoming\IdeaProjects\chapter1\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Xiaoming\IdeaProjects\chapter1\src\main\webapp\WEB-INF\jsp" />
+      <recent name="C:\Users\Xiaoming\IdeaProjects\chapter1\target\chapter1-1.0.0\WEB-INF\jsp" />
     </key>
   </component>
   <component name="RunManager">
@@ -183,7 +183,7 @@
       <workItem from="1579241570519" duration="9727000" />
       <workItem from="1579253263927" duration="289000" />
       <workItem from="1579253580220" duration="4740000" />
-      <workItem from="1579262290600" duration="3114000" />
+      <workItem from="1579262290600" duration="3672000" />
     </task>
     <task id="LOCAL-00001" summary="Just a test">
       <created>1579262908037</created>
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579265187687</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Just a test">
+      <created>1579265448186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579265448186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,10 +279,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="258" key="FileChooserDialogImpl/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579264744145" />
-    <state x="2460" y="651" key="Github.ShareDialog" timestamp="1579263067227">
+    <state x="2460" y="651" key="Github.ShareDialog" timestamp="1579266011884">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2460" y="651" key="Github.ShareDialog/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579263067227" />
+    <state x="2460" y="651" key="Github.ShareDialog/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579266011884" />
     <state x="2496" y="447" key="Github.UntrackedFilesDialog" timestamp="1579262481638">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -360,19 +367,19 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1219" height="277" key="GridCell.Tab.3.right/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579241256185" />
-    <state x="2029" y="118" key="SettingsEditor" timestamp="1579264019542">
+    <state x="2029" y="118" key="SettingsEditor" timestamp="1579265987201">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2029" y="118" key="SettingsEditor/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579264019542" />
+    <state x="2029" y="118" key="SettingsEditor/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579265987201" />
     <state x="2760" y="434" key="VCS.EditChangelistDialog" timestamp="1579264778606">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2760" y="434" key="VCS.EditChangelistDialog/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579264778606" />
-    <state x="2472" y="251" key="Vcs.Push.Dialog.v2" timestamp="1579265103372">
+    <state x="2472" y="251" key="Vcs.Push.Dialog.v2" timestamp="1579265750421">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="643" y="261" key="Vcs.Push.Dialog.v2/128.0.1792.1080/1920.0.1920.1040@128.0.1792.1080" timestamp="1579260217976" />
-    <state x="2472" y="251" key="Vcs.Push.Dialog.v2/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579265103372" />
+    <state x="2472" y="251" key="Vcs.Push.Dialog.v2/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579265750421" />
     <state x="2565" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1579262291602">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
