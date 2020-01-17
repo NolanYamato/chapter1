@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="150388c6-7cc5-4928-8cb4-bc5e4a268842" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/hello4.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +183,7 @@
       <workItem from="1579241570519" duration="9727000" />
       <workItem from="1579253263927" duration="289000" />
       <workItem from="1579253580220" duration="4740000" />
-      <workItem from="1579262290600" duration="4212000" />
+      <workItem from="1579262290600" duration="4495000" />
     </task>
     <task id="LOCAL-00001" summary="Just a test">
       <created>1579262908037</created>
@@ -228,7 +227,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579266128732</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Just a test">
+      <created>1579266533306</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579266533306</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Just a test">
+      <created>1579266589469</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579266589469</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Just a test">
+      <created>1579266621088</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579266621088</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,18 +299,18 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2561" y="128" key="#tomcat/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579230265281" />
-    <state x="2480" y="112" key="CommitChangelistDialog2" timestamp="1579266588050">
+    <state x="2480" y="112" key="CommitChangelistDialog2" timestamp="1579266620131">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2480" y="112" key="CommitChangelistDialog2/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579266588050" />
+    <state x="2480" y="112" key="CommitChangelistDialog2/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579266620131" />
     <state x="2660" y="258" key="FileChooserDialogImpl" timestamp="1579264744145">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="258" key="FileChooserDialogImpl/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579264744145" />
-    <state x="2460" y="651" key="Github.ShareDialog" timestamp="1579266011884">
+    <state x="2460" y="651" key="Github.ShareDialog" timestamp="1579266799348">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2460" y="651" key="Github.ShareDialog/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579266011884" />
+    <state x="2460" y="651" key="Github.ShareDialog/128.0.1792.1080/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579266799348" />
     <state x="2496" y="447" key="Github.UntrackedFilesDialog" timestamp="1579262481638">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
